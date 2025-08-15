@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+  http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  
+  <groupId>com.arthenica</groupId>
+  <artifactId>ffmpeg-kit-https</artifactId>
+  <version>6.0-2</version>
+  <packaging>aar</packaging>
+  
+  <name>FFmpeg Kit HTTPS</name>
+  <description>FFmpeg Kit for Android - HTTPS Package</description>
+  <url>https://github.com/arthenica/ffmpeg-kit</url>
+  
+  <licenses>
+    <license>
+      <name>LGPL-3.0</name>
+      <url>https://www.gnu.org/licenses/lgpl-3.0.en.html</url>
+    </license>
+  </licenses>
+  
+  <developers>
+    <developer>
+      <name>ARTHENICA</name>
+      <email>info@arthenica.com</email>
+    </developer>
+  </developers>
+</project>
